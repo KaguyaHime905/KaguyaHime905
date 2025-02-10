@@ -26,10 +26,9 @@ _Visualizzazione interattiva dei dati con Streamlit._
 ![KaguyaHime905's GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=KaguyaHime905&theme=tokyonight)
 ![KaguyaHime905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaguyaHime905&show_icons=true&theme=tokyonight)
 
-
 ![KaguyaHime905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaguyaHime905&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaguyaHime905&layout=compact&theme=tokyonight)](https://github.com/KaguyaHime905)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KaguyaHime905&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 🚀 **Tech Stack**

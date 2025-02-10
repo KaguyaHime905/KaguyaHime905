@@ -21,6 +21,11 @@ _Analisi esplorativa basata sui dati di Rotten Tomatoes e Box Office._
 🔹 **[Classification Analysis](https://github.com/KaguyaHime905/ProgettoClassificationAnalysis)**  
 _Visualizzazione interattiva dei dati con Streamlit._  
 📊 *Tecnologie:* `Python` `Streamlit` `Plotly`
+![KaguyaHime905's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KaguyaHime905&theme=github)
+
+![KaguyaHime905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaguyaHime905&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KaguyaHime905&theme=tokyonight)](https://git.io/streak-stats)
 
 ![KaguyaHime905's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaguyaHime905&show_icons=true&theme=tokyonight)
 

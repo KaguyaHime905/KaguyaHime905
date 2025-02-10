@@ -22,6 +22,7 @@ _Analisi esplorativa basata sui dati di Rotten Tomatoes e Box Office._
 _Visualizzazione interattiva dei dati con Streamlit._  
 📊 *Tecnologie:* `Python` `Streamlit` `Plotly`
 
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=tuo-username&theme=github)
 
 ## 🚀 **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,10 +32,7 @@ _Visualizzazione interattiva dei dati con Streamlit._
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ## 📬 **Contattami**
-[![LinkedIn](www.linkedin.com/in/giulia-g-71b19613b)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuo-username)  
-
---- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giulia-g-71b19613b)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KaguyaHime905)  

@@ -1,5 +1,4 @@
 ## Hi there 👋
-**KaguyaHime905/KaguyaHime905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Ciao, sono Giulia!
 

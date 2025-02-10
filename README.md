@@ -13,6 +13,13 @@
 - 🚀 **Automazioni & AI** (Chatbot, NLP, Automazioni con Python)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaguyaHime905&layout=compact&theme=tokyonight)](https://github.com/KaguyaHime905)
+![KaguyaHime905's GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=KaguyaHime905&theme=tokyonight)
+![KaguyaHime905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaguyaHime905&show_icons=true&theme=tokyonight)
+
+
+
 ## 📂 **Progetti in evidenza**
 🔹 **[Analisi dei film di Hollywood](https://github.com/KaguyaHime905/jupyterproject)**  
 _Analisi esplorativa basata sui dati di Rotten Tomatoes e Box Office._  
@@ -23,11 +30,7 @@ _Visualizzazione interattiva dei dati con Streamlit._
 📊 *Tecnologie:* `Python` `Streamlit` `Plotly`
 
 
-![KaguyaHime905's GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=KaguyaHime905&theme=tokyonight)
-![KaguyaHime905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaguyaHime905&show_icons=true&theme=tokyonight)
 
-![KaguyaHime905's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaguyaHime905&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaguyaHime905&layout=compact&theme=tokyonight)](https://github.com/KaguyaHime905)
 
 
 

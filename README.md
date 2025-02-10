@@ -22,7 +22,7 @@ _Analisi esplorativa basata sui dati di Rotten Tomatoes e Box Office._
 _Visualizzazione interattiva dei dati con Streamlit._  
 📊 *Tecnologie:* `Python` `Streamlit` `Plotly`
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=kaguyaHime905e&theme=github)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=KaguyaHime905&theme=github)
 
 ## 🚀 **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
